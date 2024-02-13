@@ -31,3 +31,4 @@ The app has a single endpoint at `/hello/` that responds with a JSON object: `{"
   -`urls.py`: Configures the URL patterns for the app.
 - `HelloWorldApp/`: Project-specific settings and configurations.
   - `urls.py`: Main URL configuration for the project.
+ 
