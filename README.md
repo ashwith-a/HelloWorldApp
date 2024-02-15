@@ -19,6 +19,9 @@ python manage.py migrate
 
 # Start the development server
 python manage.py runserver
+
+#Navigate in browser
+http://127.0.0.1:8000/hello/
 ```
 
 Make sure you have Python and Django installed on your machine.
